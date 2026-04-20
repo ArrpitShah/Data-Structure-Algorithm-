@@ -1,41 +1,54 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+# 🔹 Compiled object files
 *.o
 *.obj
+*.lo
+*.slo
 
-# Precompiled Headers
+# 🔹 Precompiled headers
 *.gch
 *.pch
 
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
+# 🔹 Static & dynamic libraries
 *.a
 *.lib
+*.so
+*.dll
+*.dylib
 
-# Executables
+# 🔹 Executables
 *.exe
 *.out
 *.app
 
-# debug information files
+# 🔹 Debug files
+*.pdb
+*.ilk
 *.dwo
+
+# 🔹 Dependency files
+*.d
+
+# 🔹 Logs
+*.log
+
+# 🔹 Temporary files
+*.tmp
+*.temp
+*~
+
+# 🔹 IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 🔹 Swap files (Linux)
+*.swp
+
+# 🔹 Mac system files
+.AppleDouble
+.LSOverride
