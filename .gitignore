@@ -1,0 +1,54 @@
+# 🔹 Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# 🔹 Precompiled headers
+*.gch
+*.pch
+
+# 🔹 Static & dynamic libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# 🔹 Executables
+*.exe
+*.out
+*.app
+
+# 🔹 Debug files
+*.pdb
+*.ilk
+*.dwo
+
+# 🔹 Dependency files
+*.d
+
+# 🔹 Logs
+*.log
+
+# 🔹 Temporary files
+*.tmp
+*.temp
+*~
+
+# 🔹 IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 🔹 Swap files (Linux)
+*.swp
+
+# 🔹 Mac system files
+.AppleDouble
+.LSOverride
