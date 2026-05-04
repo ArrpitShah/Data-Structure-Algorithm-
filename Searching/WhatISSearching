@@ -1,0 +1,5 @@
+//In this Section, we will learn about Searching and its types.
+//Searching is the process of finding a specific element in a collection of data.
+//There are two main types of searching algorithms: Linear Search and Binary Search.
+//1. Linear Search: In linear search, we check each element of the array one by one until we find the target element or reach the end of the array. The time complexity of linear search is O(n) in the worst case.
+//2. Binary Search: In binary search, we can only use it on sorted arrays. We start by comparing the target element with the middle element of the array. If they are equal, we have found the target. If the target is less than the middle element, we continue searching in the left half of the array. If the target is greater than the middle element, we continue searching in the right half of the array. The time complexity of binary search is O(log n) in the worst case.  
